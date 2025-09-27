@@ -18,3 +18,10 @@ Essa aplicação é de grande valor para o negócio, pois irá gerar os seguinte
   - Aumentar a eficiência operacional da base, ou seja, permitir que mais veículos sejam carregados num mesmo tempo
   - Aumentar a taxa de ocupação das baias
   - Melhorar o nível de atendimentos dos clientes, um vez que as filas e os tempos de espera serão reduzidos
+
+## 2. Descrição dos arquivos
+- MVP_ML_marcosMiranda.ipynb: notebook do projeto
+- requirements.txt: pacotes necessários ao notebook
+- atrasos_tratados.csv: dataset de treino (extraído de janeiro a maio de 2025)
+- atrasos_junho_tratatos: dataset de teste (extraído de junho de 2025)
+- modelo_atrasos.pkl: arquivo picke do modelo
